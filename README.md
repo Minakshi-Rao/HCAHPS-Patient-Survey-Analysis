@@ -11,22 +11,30 @@ American Hospital Association (AHA) provided datasets to analyse Hospital Consum
 * Are there any major areas of opportunity remaining?
 * What recommendations can you make to hospitals to help them further improve the patient experience?
 
-  **OVERVIEW**
+  # OVERVIEW
+  
 
   
 ![page1](https://github.com/Minakshi-Rao/HCAHPS-Patient-Survey-Analysis/assets/144680551/30d2dc76-2908-4eda-bc5c-7fcd9088bf62)
 
 
-**STATE****ANALYSIS**
+# STATE ANALYSIS
+
+
 
 ![page 2](https://github.com/Minakshi-Rao/HCAHPS-Patient-Survey-Analysis/assets/144680551/f2508161-f478-4fcb-9252-ca4c23668d06)
 
 
-**NATIONAL****ANALYSIS**
+# NATIONAL ANALYSIS
+
+
 
 ![page 3](https://github.com/Minakshi-Rao/HCAHPS-Patient-Survey-Analysis/assets/144680551/cc2a1827-d2a8-47d6-ae6e-114ffc184109)
 
 
-**KEY****INSIGHTS**
+# KEY INSIGHTS
+
+
+
 ![page 4](https://github.com/Minakshi-Rao/HCAHPS-Patient-Survey-Analysis/assets/144680551/fb72261f-c67a-48d9-9982-254ae5d7a761)
 
