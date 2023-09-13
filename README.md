@@ -12,3 +12,4 @@ American Hospital Association (AHA) provided datasets to analyse Hospital Consum
 * What recommendations can you make to hospitals to help them further improve the patient experience?
 
   
+![page1](https://github.com/Minakshi-Rao/HCAHPS-Patient-Survey-Analysis/assets/144680551/30d2dc76-2908-4eda-bc5c-7fcd9088bf62)
